@@ -10,8 +10,8 @@ In current market, there are lots of LLM models avaiable, but majorly below are 
 - 
 
 
-Creating API Keys:
-
+**Creating API Keys:
+**
 For OpenAI chatgpt: 
 - Create a login
     *  sign up with you custom email.
