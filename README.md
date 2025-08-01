@@ -1,6 +1,29 @@
 # Generative_AI
 Documents and Knowledge of Generative AI
 
+Generatie AI Models:
+In current market, there are lots of LLM models avaiable, but majorly below are used in our portal.
+
+- Chatgpt from OpenAI
+- Llama by Meta
+- Groq
+- 
+
+
+Creating API Keys:
+
+For OpenAI chatgpt: 
+- Create a login
+    *  sign up with you custom email.
+    *  Login with Google and other user authentications
+
+After sign up, login to portal : https://platform.openai.com/
+
+<img width="829" height="354" alt="image" src="https://github.com/user-attachments/assets/5806aad8-46e1-42c1-b8b7-2154a2dc0659" />
+
+
+First login to 
+
 Workflow Automation Tools:
 - n8n
 - Microsoft Autogen
